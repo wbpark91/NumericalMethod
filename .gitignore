@@ -163,3 +163,6 @@ xcuserdata/
 /*.gcno
 
 # End of https://www.gitignore.io/api/macos,xcode,python
+
+*.docx
+/*.pdf
